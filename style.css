@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100px;
+    background-color: red;
+}
+
+.container {
+    border: 1px solid black;
+    max-width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: 1px solid black;
+    width: calc(100% / 3);
+    text-align: center;
+}
+
+.card img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+}
