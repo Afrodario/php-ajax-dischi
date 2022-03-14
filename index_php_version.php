@@ -13,7 +13,7 @@ require __DIR__ . "/database.php";
 </head>
 <body>
     <header>
-
+        <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png">
     </header>
     
     <main>

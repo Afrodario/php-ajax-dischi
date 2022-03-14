@@ -45,9 +45,4 @@
         ]
     ];
 
-    // $oggettoJson = json_encode($risposta);
-
-    // header('Content-Type: application/json');
-    // echo $oggettoJson;
-
 ?>
